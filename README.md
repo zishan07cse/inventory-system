@@ -21,3 +21,5 @@ Inventory Management System with Laravel 10 and MySql.
     $ php artisan storage:link
     $ php artisan serve
     Try login with username: `admin` and password: `password`
+
+#Login Page
