@@ -32,7 +32,7 @@ Admin Panel Page:
 
 Pos Panel Page:
 
-
+![Screenshot 2024-02-28 231008](https://github.com/zishan07cse/inventory-system/assets/71685189/3101e32b-0a9e-43a7-9cfd-3b24b20af680)
 
 Customer Page:
 
